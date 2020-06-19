@@ -20,3 +20,7 @@ code {
   color: red;
   color: white;
 }
+
+.my-class {
+    height: 500px
+}
