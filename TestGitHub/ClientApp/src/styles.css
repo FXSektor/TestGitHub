@@ -15,7 +15,12 @@ code {
   border-color: #1861ac;
 }
 
+.new-block {
+  width: 500px;
+}
+
 .test-class {
+  background-color: purple;
   color: blue;
   color: red;
   color: white;
