@@ -16,5 +16,7 @@ code {
 }
 
 .test-class {
-    color: red;
+  color: blue;
+  color: red;
+  color: white;
 }
