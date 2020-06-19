@@ -16,8 +16,9 @@ code {
 }
 
 .new-block {
-  width: 600px;
-  height: 200px;
+  width: 450px;
+  height: 1px;
+  max-height: 300px;
 }
 
 .test-class {
