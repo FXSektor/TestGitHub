@@ -6,4 +6,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  cick = 'new';
+  test = false;
 }
